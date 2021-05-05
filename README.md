@@ -8,6 +8,10 @@
   
 ![](https://visitor-badge.glitch.me/badge?page_id=Abhishekmittalcse23.Abhishekmittalcse23)
 
+-   I am still learning.
+-   I used to work on Python, C++ and HTML, CSS.
+-   🥅 Future goals: Contribute more to Open Source projects.
+-   ⚡ Fun fact:  My English is not too good.
 
 <hr>
 
