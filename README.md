@@ -5,7 +5,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Abhishekmittalcse23.Abhishekmittalcse23)
 
 -   💻 I am still learning.
--   👨‍💻 I used to work on Python, C++ and HTML, CSS.
+-   👨‍💻 I used to work on C, C++ and Python.
+-   👨‍💻 Web Technology - HTML, CSS, JavaScript, Bootstrap, jQuery.
 -   🥅 Future goals: Contribute more to Open Source projects.
 
 <hr>
