@@ -45,28 +45,28 @@ I've all abilities and thinking to produce software that meets all goals and obj
 
 # Contact Me
 <p align = "center">
-  <a href="https://www.facebook.com/Abhishekbxn/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt= "facebook"/>
-  </a>
-  <a href="https://www.instagram.com/_er.abhishek/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt= "Instagram"/>
-  </a>
-  <a href="https://twitter.com/_erabhishek" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt= "twitter"/>
-  </a>
-  <a href="https://github.com/Abhishekmittalcse23" target="_blank">
+  <a href="https://github.com/Abhishekmittalcse23">
     <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt= "github"/>
   </a>
-  <a href="https://www.linkedin.com/in/abhishekbxn/" target="_blank">
+  <a href="https://www.facebook.com/Abhishekbxn/">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt= "facebook"/>
+  </a>
+  <a href="https://www.instagram.com/_er.abhishek/">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt= "Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhishekbxn/">
     <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" alt= "linkedin"/>
   </a>
-  <a href="https://www.qwiklabs.com/public_profiles/82c6b5a9-d156-4ac5-955b-de71a22d6f80" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt= "Google Cloud"/>
+  <a href="https://twitter.com/_erabhishek">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt= "twitter"/>
   </a>
   <a href="mailto:Abhishekbxn@gmail.com/">
     <img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" alt= "Gmail"/>
   </a>
-  <a href="https://www.hackerrank.com/abhishekmittal_1" target="_blank">
+  <a href="https://www.qwiklabs.com/public_profiles/82c6b5a9-d156-4ac5-955b-de71a22d6f80">
+    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt= "Google Cloud"/>
+  </a>
+  <a href="https://www.hackerrank.com/abhishekmittal_1">
     <img src="https://img.icons8.com/windows/32/26e07f/hackerrank.png" width="5%" alt= "Hackerrank"/>
   </a>
 </p>
