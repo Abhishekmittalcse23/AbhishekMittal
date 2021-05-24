@@ -2,7 +2,10 @@
 ### I am Abhishek Mittal.
 ##### I am Computer Science Engineering Student.
 
-![](https://visitor-badge.glitch.me/badge?page_id=Abhishekmittalcse23.Abhishekmittalcse23)
+![GitHub visitors](https://visitor-badge.glitch.me/badge?page_id=Abhishekmittalcse23.Abhishekmittalcse23)
+![GitHub followers](https://img.shields.io/github/followers/Abhishekmittalcse23)
+![GitHub User's stars](https://img.shields.io/github/stars/Abhishekmittalcse23)
+
 
 -   💻 I am still learning.
 -   👨‍💻 **Programming -** I used to work on C, C++ and Python.
