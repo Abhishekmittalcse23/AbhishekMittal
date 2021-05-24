@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/erabhishekmittal)
 ![GitHub User's stars](https://img.shields.io/github/stars/erabhishekmittal)
 
-- 👋 Hi, I'm Abhishek Mittal
+- 👋 Hi, I'm Abhishek Mittal.
 - 🌱 I am still learning.
 - 💻 **Programming -** I used to work on C, C++ and Python.
 - 👨‍💻 **Web Development -** HTML, CSS, JavaScript, Bootstrap, jQuery.
