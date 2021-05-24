@@ -6,11 +6,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/erabhishekmittal)
 ![GitHub User's stars](https://img.shields.io/github/stars/erabhishekmittal)
 
-
--   💻 I am still learning.
--   👨‍💻 **Programming -** I used to work on C, C++ and Python.
--   👨‍💻 **Web Development -** HTML, CSS, JavaScript, Bootstrap, jQuery.
--   🥅 Future goals: Contribute more to Open Source projects.
+- 👋 Hi, I’m @erabhishekmittal
+- 🌱 I am still learning.
+- 💻 **Programming -** I used to work on C, C++ and Python.
+- 👨‍💻 **Web Development -** HTML, CSS, JavaScript, Bootstrap, jQuery.
+- 🥅 Future goals: Contribute more to Open Source projects.
 
 <hr>
 
