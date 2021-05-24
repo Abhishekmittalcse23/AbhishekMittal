@@ -2,9 +2,9 @@
 ### I am Abhishek Mittal.
 ##### I am Computer Science Engineering Student.
 
-![GitHub visitors](https://visitor-badge.glitch.me/badge?page_id=Abhishekmittalcse23.Abhishekmittalcse23)
-![GitHub followers](https://img.shields.io/github/followers/Abhishekmittalcse23)
-![GitHub User's stars](https://img.shields.io/github/stars/Abhishekmittalcse23)
+![GitHub visitors](https://visitor-badge.glitch.me/badge?page_id=erabhishekmittal.erabhishekmittal)
+![GitHub followers](https://img.shields.io/github/followers/erabhishekmittal)
+![GitHub User's stars](https://img.shields.io/github/stars/erabhishekmittal)
 
 
 -   💻 I am still learning.
@@ -40,15 +40,15 @@ I've all abilities and thinking to produce software that meets all goals and obj
 # My Stats
 <hr>
 
-![NikhilRaj's github stats](https://github-readme-stats.vercel.app/api?username=Abhishekmittalcse23&show_icons=true&theme=light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekmittalcse23)
+![Stats](https://github-readme-stats.vercel.app/api?username=erabhishekmittal&show_icons=true&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erabhishekmittal)
 
 # My Contacts
 **Gmail:** Abhishekbxn@gmail.com , Abhishekmittal.cse23@jecrc.ac.in
 
 # Contact Me
 <p align = "center">
-  <a href="https://github.com/Abhishekmittalcse23">
+  <a href="https://github.com/erabhishekmittal">
     <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt= "github"/>
   </a>
   <a href="https://www.facebook.com/Abhishekbxn/">
