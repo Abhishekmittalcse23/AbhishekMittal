@@ -46,6 +46,9 @@ I've all abilities and thinking to produce software that meets all goals and obj
 # My Contacts
 **Gmail:** Abhishekbxn@gmail.com , Abhishekmittal.cse23@jecrc.ac.in
 
+[![Gmail Badge](https://img.shields.io/badge/-Abhishekbxn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Abhishekbxn@gmail.com)](mailto:Abhishekbxn@gmail.com)&emsp;
+[![Gmail Badge](https://img.shields.io/badge/-Abhishekmittal.cse23@jecrc.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Abhishekmittal.cse23@jecrc.ac.in)](mailto:Abhishekmittal.cse23@jecrc.ac.in)&emsp;
+
 # Contact Me
 <p align = "center">
   <a href="https://github.com/erabhishekmittal">
