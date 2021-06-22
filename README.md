@@ -10,9 +10,9 @@
 - 🌱 I am still learning.
 - 💻 **Programming -** I used to work on C, C++ and Python.
 - 👨‍💻 **Web Development -** 
-- Front-end Technology - HTML, CSS, JavaScript, Bootstrap, jQuery.
-- Back-end Technology - Node.js, Express.js.
-- Database - mongoDB, MySQL.
+- **Front-end Technology** - HTML, CSS, JavaScript, Bootstrap, jQuery (JavaScript Library for GUI - React.js)
+- **Back-end Technology** - Node.js, Express.js.
+- **Database** - mongoDB, MySQL.
 - 🥅 Future goals: Contribute more to Open Source projects.
 
 <hr>
