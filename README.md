@@ -9,7 +9,10 @@
 - 👋 Hi, I'm Abhishek Mittal.
 - 🌱 I am still learning.
 - 💻 **Programming -** I used to work on C, C++ and Python.
-- 👨‍💻 **Web Development -** HTML, CSS, JavaScript, Bootstrap, jQuery.
+- 👨‍💻 **Web Development -** 
+- Front-end Technology - HTML, CSS, JavaScript, Bootstrap, jQuery.
+- Back-end Technology - Node.js, Express.js.
+- Database - mongoDB, MySQL.
 - 🥅 Future goals: Contribute more to Open Source projects.
 
 <hr>
