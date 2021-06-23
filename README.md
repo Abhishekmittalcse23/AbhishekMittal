@@ -1,6 +1,5 @@
-# HELLO!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### I am Abhishek Mittal.
-##### I am Computer Science Engineering Student.
+## Hi, I'm Abhishek Mittal 👋
+<b>I am Computer Science Engineering Student.</b>
 
 ![GitHub visitors](https://visitor-badge.glitch.me/badge?page_id=erabhishekmittal.erabhishekmittal)
 ![GitHub followers](https://img.shields.io/github/followers/erabhishekmittal)
@@ -14,45 +13,48 @@
 - **Back-end Technology** - Node.js, Express.js.
 - **Database** - mongoDB, MySQL.
 - 🥅 Future goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I need Music 🎵 while Coding...
+- 🇮🇳 Proudly Indian
 
-<hr>
+### 🛠 Languages and Tools
 
-# Technical Skills
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">&nbsp;
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">
-  <img src="https://img.shields.io/badge/jQuery-6C75F0?style=for-the-badge&logo=jQuery&logoColor=black" alt="jQuery">  
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/MySQL-ED8B00?style=for-the-badge&logo=mysql&logoColor=white" alt="My SQL">
-  <img src="https://img.shields.io/badge/WordPress-618DFA?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-E3D432?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Flutter-19DEEE?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-</p>
-
-# About Me
+### 👨‍🎓 About Me
 
 **I'm pursuing B.Tech in Computer Science Engineering from JECRC Foundation. I always try to do something new. I love to explore my field and dream to make my career in IT industry.
 I am highly passionate about learning new things, optimistic in nature, and fully enthusiastic to utilize my analytical and problem-solving skills to growth of organization. Adaptable to any situation and capable of delivering fruitful results. Willing to innovate new things which can improve the existing technologies.
 I've all abilities and thinking to produce software that meets all goals and objectives outlined by the customer.**
 
-# My Stats
-<hr>
+### ⚙️ GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=erabhishekmittal&show_icons=true&theme=light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erabhishekmittal)
+![Abhishek Mittal's Stats](https://github-readme-stats.vercel.app/api?username=erabhishekmittal&show_icons=true&theme=light)
+![Abhishek Mittal's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erabhishekmittal)
 
-# My Contacts
+### My Contacts
 **Gmail:** Abhishekbxn@gmail.com , Abhishekmittal.cse23@jecrc.ac.in
 
 [![Gmail Badge](https://img.shields.io/badge/-Abhishekbxn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Abhishekbxn@gmail.com)](mailto:Abhishekbxn@gmail.com)&emsp;
 [![Gmail Badge](https://img.shields.io/badge/-Abhishekmittal.cse23@jecrc.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Abhishekmittal.cse23@jecrc.ac.in)](mailto:Abhishekmittal.cse23@jecrc.ac.in)&emsp;
 
-# Contact Me
+### Contact Me
 <p align = "center">
   <a href="https://github.com/erabhishekmittal">
     <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt= "github"/>
@@ -78,4 +80,9 @@ I've all abilities and thinking to produce software that meets all goals and obj
   <a href="https://www.hackerrank.com/abhishekmittal_1">
     <img src="https://img.icons8.com/windows/32/26e07f/hackerrank.png" width="5%" alt= "Hackerrank"/>
   </a>
+</p>
+
+ <p align="center"> 
+  Visitors Count<br>
+  <img src="https://profile-counter.glitch.me/erabhishekmittal/count.svg" />
 </p>
